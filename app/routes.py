@@ -3,8 +3,8 @@ from flask import request, Response
 import boto3
 from werkzeug.utils import secure_filename
 
-ACCESS_KEY = "AKIAVMFTJX4WZI43LDMQ"
-SECRET_KEY = "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"
+ACCESS_KEY = " "
+SECRET_KEY = " "
 
 
 @app.route('/')
